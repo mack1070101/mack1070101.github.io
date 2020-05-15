@@ -6,10 +6,21 @@
     <description>Recent content on Mackenzie Bligh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 May 2020 18:31:18 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2020 19:50:58 -0700</lastBuildDate>
     
 	<atom:link href="https://mack1070101.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Resume</title>
+      <link>https://mack1070101.github.io/resume/</link>
+      <pubDate>Thu, 14 May 2020 19:50:58 -0700</pubDate>
+      
+      <guid>https://mack1070101.github.io/resume/</guid>
+      <description>Employment Backend Software Engineer: Turo Nov 2018 - Present
+Turo is the largest Peer-to-Peer car sharing platform that operates in the United States, Canada, the U.K. and Germany.
+ Designed, and implemented the back end for Turo Go Digital: a software solution to remotely lock, unlock, and pull state from vehicles Worked with Java, Kotlin, and MySQL Participated in cross functional product teams; collaborate with stakeholders across domains within and external to the company Completed a significant upgrade of Turo&amp;rsquo;s vehicle delivery product to allow delivery to airports, hotels, and other points of interest Ran interviews for hiring new back end engineers  Backend Software Engineer: Copia Sept 2017 - Nov 2018</description>
+    </item>
     
     <item>
       <title>Programming</title>
