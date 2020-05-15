@@ -6,7 +6,7 @@
     <description>Recent content on Mackenzie Bligh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 May 2020 10:03:46 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2020 18:31:18 -0700</lastBuildDate>
     
 	<atom:link href="https://mack1070101.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,17 +14,18 @@
     <item>
       <title>Programming</title>
       <link>https://mack1070101.github.io/programming/</link>
-      <pubDate>Thu, 14 May 2020 10:03:46 -0700</pubDate>
+      <pubDate>Thu, 14 May 2020 18:31:18 -0700</pubDate>
       
       <guid>https://mack1070101.github.io/programming/</guid>
-      <description>Emacs Talks Emacs SF Meetup: [2020-01-29 Wed] A long form presentation about an interesting way to use literate programming in Emacs to do API documentation and testing, as well as a lot of my philosophy and work flow around using Emacs.   Emacs Conf 2019 A shorter version of my Emacs SF meetup talk that&amp;rsquo;s more focused on literate programming, and doesn&amp;rsquo;t include any Emacs workflow discussion.
-https://media.emacsconf.org/2019/29.html</description>
+      <description>Projects Fotingo-emacs   fotingo-emacs is an Emacs interface to the cli tool fotingo. Fotingo is a CLI to ease the interaction between Git, Github and Jira when working on tasks. fotingo-emacs aims to provide the same level of convenience provided by Magit and is designed to follow a similar workflow.
+dotfiles Configuration for all the tools I use; .spacemacs may be of interest for Emacs enthusiasts.
+DynamoInverter A library for turning DynamoDb QuerySpec and ScanSpec objects into SQL strings that can be processed by JDBC to standardize database interactions around AWS objects.</description>
     </item>
     
     <item>
       <title>Personal</title>
       <link>https://mack1070101.github.io/interests/</link>
-      <pubDate>Wed, 13 May 2020 20:46:13 -0700</pubDate>
+      <pubDate>Thu, 14 May 2020 18:18:29 -0700</pubDate>
       
       <guid>https://mack1070101.github.io/interests/</guid>
       <description>Outdoor Hiking  For day hikes, look at satellite views first to determine if it&amp;rsquo;s a &amp;ldquo;road&amp;rdquo; hike For COVID-19 hikes you need to drive a couple hours away from the city to miss crowds Always plan a fallback hike Bring chairs/comfort items on day hikes  North America  Pinancles National Park. Good day trip Gold Bluffs beach campground  Almost a 7 hour drive No reservations after sept 28   Zion national park traverse Graeagle is apparently a cool spot to go Hiking(from Jack Trout)    Completed</description>
