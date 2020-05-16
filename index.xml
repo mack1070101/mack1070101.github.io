@@ -6,10 +6,21 @@
     <description>Recent content on Mackenzie Bligh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 May 2020 19:50:58 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2020 20:48:29 -0700</lastBuildDate>
     
 	<atom:link href="https://mack1070101.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Programming</title>
+      <link>https://mack1070101.github.io/programming/</link>
+      <pubDate>Fri, 15 May 2020 20:48:29 -0700</pubDate>
+      
+      <guid>https://mack1070101.github.io/programming/</guid>
+      <description>Projects Fotingo-emacs   fotingo-emacs is an Emacs interface to the cli tool fotingo. Fotingo is a CLI to ease the interaction between Git, Github and Jira when working on tasks. fotingo-emacs aims to provide the same level of convenience provided by Magit and is designed to follow a similar workflow.
+make-a-lisp An implementation of a standard Lisp in Kotlin.
+dotfiles Configuration for all the tools I use; .spacemacs may be of interest for Emacs enthusiasts.</description>
+    </item>
     
     <item>
       <title>Resume</title>
@@ -20,17 +31,6 @@
       <description>Employment Backend Software Engineer: Turo Nov 2018 - Present
 Turo is the largest Peer-to-Peer car sharing platform that operates in the United States, Canada, the U.K. and Germany.
  Designed, and implemented the back end for Turo Go Digital: a software solution to remotely lock, unlock, and pull state from vehicles Worked with Java, Kotlin, and MySQL Participated in cross functional product teams; collaborate with stakeholders across domains within and external to the company Completed a significant upgrade of Turo&amp;rsquo;s vehicle delivery product to allow delivery to airports, hotels, and other points of interest Ran interviews for hiring new back end engineers  Backend Software Engineer: Copia Sept 2017 - Nov 2018</description>
-    </item>
-    
-    <item>
-      <title>Programming</title>
-      <link>https://mack1070101.github.io/programming/</link>
-      <pubDate>Thu, 14 May 2020 18:31:18 -0700</pubDate>
-      
-      <guid>https://mack1070101.github.io/programming/</guid>
-      <description>Projects Fotingo-emacs   fotingo-emacs is an Emacs interface to the cli tool fotingo. Fotingo is a CLI to ease the interaction between Git, Github and Jira when working on tasks. fotingo-emacs aims to provide the same level of convenience provided by Magit and is designed to follow a similar workflow.
-dotfiles Configuration for all the tools I use; .spacemacs may be of interest for Emacs enthusiasts.
-DynamoInverter A library for turning DynamoDb QuerySpec and ScanSpec objects into SQL strings that can be processed by JDBC to standardize database interactions around AWS objects.</description>
     </item>
     
     <item>
