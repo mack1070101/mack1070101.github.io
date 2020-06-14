@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/mbligh/code/personal-site",
+	"sourceRoot": "/Users/mackenziebligh/code/personal-site",
 	"sources": [
 		"themes/my-theme/assets/scss/main.scss",
 		"themes/my-theme/assets/scss/_normalize.scss",
